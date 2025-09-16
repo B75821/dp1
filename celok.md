@@ -8,5 +8,5 @@
 |---------|--------------|--------------------|
 | 2027    | travel japan |  gamble for money  |
 
-![my king]https://hu.wikipedia.org/wiki/Hszi_Csin-ping#/media/F%C3%A1jl:Xi_Jinping_in_Beijing_on_May_13,_2025_(cropped).jpg
+![my king](https://hu.wikipedia.org/wiki/Hszi_Csin-ping#/media/F%C3%A1jl:Xi_Jinping_in_Beijing_on_May_13,_2025_(cropped).jpg)
 
