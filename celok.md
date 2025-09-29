@@ -8,5 +8,5 @@
 |---------|--------------|--------------------|
 | 2027    | travel japan |  gamble for money  |
 
-![my king](https://www.gettyimages.com/photos/lebron-james)
+![my king](https://www.ign.com/wikis/the-legend-of-zelda-tears-of-the-kingdom/Link)
 
